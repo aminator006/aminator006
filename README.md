@@ -10,4 +10,4 @@
 
 - 📫 How to reach me **amansingh50007@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chandrikadeb7&show_icons=true&locale=en" alt="chandrikadeb7" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aminator006&show_icons=true&locale=en" alt="aminator006" /></p>
